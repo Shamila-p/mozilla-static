@@ -495,9 +495,7 @@ button {
   list-style: none;
   line-height: 2rem;
 }
-.five {
-  display: flex;
-}
+
 .icon {
   background-color: #20123a;
   height: 10px;
@@ -508,22 +506,30 @@ button {
   margin-left: 41px;
 }
 .privacy ul li {
-  list-style:none;
+  list-style: none;
   display: inline-block;
   margin-right: 23px;
   font-size: 14px;
   margin-top: 14px;
 }
 
-.plast{
+.plast {
   margin-top: -15px;
   font-size: 14px;
   margin-left: 79px;
   padding-bottom: 133px;
-
 }
-.plast1{
+.plast1 {
   font-size: 14px;
   margin-left: 79px;
   margin-top: 33px;
+}
+.icons {
+  margin-left: 119px;
+  font-size: 27px;
+  font-size: 19px;
+  padding: 13px;
+}
+.fire {
+  margin-top: 35px;
 }
