@@ -533,3 +533,22 @@ button {
 .fire {
   margin-top: 35px;
 }
+.base{
+  display: flex;
+}
+.lang{
+  margin-left: 770px;
+  margin-top: 10px;
+  list-style: none;
+}
+.lang li{
+  margin-top: -6px;
+}
+.lang select{
+  margin-top: 10px;
+  width: 171px;
+  height: 37px;
+  padding: 10px;
+  border-radius: 3px;
+
+}
